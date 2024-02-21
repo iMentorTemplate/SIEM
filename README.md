@@ -2,6 +2,7 @@
 
 # Project Objective
 -Here you want to outline your project objective/goal - 
+
 Building a Comprehensive SIEM Solution. My goals are to centralize log collection, correlation, and analysis, enabling proactive threat detection, incident response, and improved overall cybersecurity posture.The project aims to provide real-time visibility into security events and enhance incident response capabilities.
 
 # Tools 
